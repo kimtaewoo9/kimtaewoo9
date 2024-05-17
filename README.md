@@ -8,4 +8,4 @@ major : Department of Computer Science and Engineering
 
 [studying] 
 
-[![My Skills](https://skillicons.dev/icons?i=GO,flutter,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,flutter,wasm)](https://skillicons.dev)
