@@ -4,7 +4,7 @@ major : Department of Computer Science and Engineering
 
 [tech stack] 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css)](https://skillicons.dev)
 
 [studying] 
 
