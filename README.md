@@ -1,22 +1,22 @@
 
 <div>
   <p> 
-    ✨Name : kimtaewoo
+    Name : kimtaewoo
   </p>
 </div>
 <div>
   <p> 
-    ✨major : Department of Computer Science and Engineering in KMU
+    major : Department of Computer Science and Engineering in KMU
   </p>
 </div>
 <div>
   <p> 
-    ✨minor : Department of Information Security, Cryptology, and Mathematics in KMU
+    minor : Department of Information Security, Cryptology, and Mathematics in KMU
   </p>
 </div>
 
 <br>
-✨tech stack:
+
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js)](https://skillicons.dev)
 
