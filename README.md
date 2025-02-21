@@ -1,7 +1,7 @@
 <div>
   <p> 
-    major: 소프트웨어학(Department of Computer Science and Engineering in KMU) <br>
-    minor : 정보보안암호수학(Department of Information Security, Cryptology, and Mathematics in KMU)
+    major: 소프트웨어학과 <br>
+    minor : 정보보안암호수학과
   </p>
 </div>
 
