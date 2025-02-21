@@ -1,17 +1,11 @@
-
 <div>
   <p> 
-    Name : kimtaewoo
+    전공: 소프트웨어학과(Department of Computer Science and Engineering in KMU)
   </p>
 </div>
 <div>
   <p> 
-    major : Department of Computer Science and Engineering in KMU
-  </p>
-</div>
-<div>
-  <p> 
-    minor : Department of Information Security, Cryptology, and Mathematics in KMU
+    minor : 정보보안암호수학과(Department of Information Security, Cryptology, and Mathematics in KMU)
   </p>
 </div>
 
